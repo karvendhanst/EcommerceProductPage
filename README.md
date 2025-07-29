@@ -4,6 +4,10 @@ A fully functional **React + Vite** ecommerce product page featuring search, cat
 
 ---
 
+## 📸 Screenshot
+
+![Product Listing](./ecom.png)
+
 ## 📦 Features
 
 - 🔍 **Search** products by keyword  
