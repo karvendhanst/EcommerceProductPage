@@ -1,12 +1,36 @@
-# React + Vite
+# 🛒 Ecommerce Product Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional **React + Vite** ecommerce product page featuring search, category filter, price sorting, and pagination — all powered by **JSON Server** for mock API data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search** products by keyword  
+- 🗂️ **Filter** products by category  
+- 💰 **Sort** products by price (Low to High, High to Low)  
+- 📄 **Client-side Pagination** for browsing products easily  
+- ⚡ Mock API using `json-server`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JSON Server
+- Tailwind CSS (if applicable)
+- Axios (for API requests)
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the project locally on your machine:
+
+---
+
+### ✅ Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/karvendhanst/EcommerceProductPage
